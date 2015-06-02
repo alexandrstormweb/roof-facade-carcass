@@ -44,6 +44,7 @@ header {
   width: 630px; }
 
 .header_address_sale {
+	color: silver;
   width: 630px;
   float: left;
   border-radius: 10px;
